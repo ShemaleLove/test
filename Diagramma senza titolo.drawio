@@ -283,6 +283,9 @@
         <mxCell id="ApuNhBn8Jfl1v1Id8GHo-126" value="classifica_annuale" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="501" y="768" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ApuNhBn8Jfl1v1Id8GHo-127" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Progetto del gruppo formato da:&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Pino Fiorello Romano 0512120259&lt;br&gt;Luigi Pio Rotondo 0512120427&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Francesco Izzo&amp;nbsp;&lt;span style=&quot;background-color: oklab(0.0846607 0.00000385568 0.00000169128 / 0.06); color: oklab(0.89908 -0.00192907 -0.0048306); font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; white-space: break-spaces;&quot;&gt;0512119731&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="23" y="19" width="281" height="114" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
